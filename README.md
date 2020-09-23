@@ -1,1 +1,1 @@
-# Predict-user-clicking-an-ad-on-company-website
+# Predict whether a user click an advertisement on a company website
