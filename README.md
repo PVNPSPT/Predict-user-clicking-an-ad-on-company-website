@@ -13,9 +13,11 @@ Imported and loaded the data into a **Pandas DataFrame**. The dataset has featur
 ### 2. Exploratory Data Analysis
 Analyzed the features of the dataset by plotting them uisng **Seaborn**. Examined the relationship between features with the help of different kinds of plots like 
 **pairplot**, **jointplot**, **histogram**.
+
+
+
+
+
+
 ### 3. Build a Machine Learning model
-
-
-
-
 Performed **Feature Selection** with the help of the analysis from the plots. Built Machine Learning model using **Logistic Regression**. Evaluated the model by creating the classification report and achieved an accuracy of **91%**. Pretty good!
