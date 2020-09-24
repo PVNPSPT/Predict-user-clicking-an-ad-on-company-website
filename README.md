@@ -18,6 +18,5 @@ Analyzed the features of the dataset by plotting them uisng **Seaborn**. Examine
 
 
 
-
 ### 3. Build a Machine Learning model
 Performed **Feature Selection** with the help of the analysis from the plots. Built Machine Learning model using **Logistic Regression**. Evaluated the model by creating the classification report and achieved an accuracy of **91%**. Pretty good!
