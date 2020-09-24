@@ -9,8 +9,13 @@ The project is about predicting whether or not a particular internet user clicke
 
 ## Project Tasks
 ### 1. Get the data
-Imported and loaded the data into a **Pandas DataFrame**. Inspected the size, datatypes, summary of the data. The dataset has features like <code>Daily Time Spent on Site, Age, Area Income, Daily Internet Usage, Ad Topic Line, City, Male, Country, Timestamp, Clicked on Ad</code>
+Imported and loaded the data into a **Pandas DataFrame**. The dataset has features like <code>Daily Time Spent on Site, Age, Area Income, Daily Internet Usage, Ad Topic Line, City, Male, Country, Timestamp, Clicked on Ad.</code> Observed the different statistical information by **Descriptive Statistical methods**.
 ### 2. Exploratory Data Analysis
-Analyzed the features of the dataset by plotting them uisng **Seaborn**. Examined the relationship between features with the help of different kinds of plots like **pairplot**, **jointplot**, **histogram**.
+Analyzed the features of the dataset by plotting them uisng **Seaborn**. Examined the relationship between features with the help of different kinds of plots like 
+**pairplot**, **jointplot**, **histogram**.
 ### 3. Build a Machine Learning model
+
+
+
+
 Performed **Feature Selection** with the help of the analysis from the plots. Built Machine Learning model using **Logistic Regression**. Evaluated the model by creating the classification report and achieved an accuracy of **91%**. Pretty good!
