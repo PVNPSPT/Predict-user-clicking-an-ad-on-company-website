@@ -9,7 +9,7 @@ The project is about predicting whether or not a particular internet user clicke
 
 ## Project Tasks
 ### 1. Get the data
-Imported and loaded the data into a **Pandas DataFrame**. Inspected the size, datatypes, summary of the data.
+Imported and loaded the data into a **Pandas DataFrame**. Inspected the size, datatypes, summary of the data. The dataset has features like <code>Daily Time Spent on Site, Age, Area Income, Daily Internet Usage, Ad Topic Line, City, Male, Country, Timestamp, Clicked on Ad</code>
 ### 2. Exploratory Data Analysis
 Analyzed the features of the dataset by plotting them uisng **Seaborn**. Examined the relationship between features with the help of different kinds of plots like **pairplot**, **jointplot**, **histogram**.
 ### 3. Build a Machine Learning model
